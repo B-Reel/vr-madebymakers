@@ -1,0 +1,8 @@
+node_modules
+.idea
+bundle.js
+bundle.js.map
+*.swp
+*~
+*.log
+.DS_Store
