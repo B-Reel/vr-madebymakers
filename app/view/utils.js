@@ -31,13 +31,23 @@ function getTextAndColorsFromHash() {
     }
   });
 
-  return {
-    text: text || 'HELLO WORLD',
-    colors: colors || text ?
-      Array.prototype.map.call(text, function() {
+  if(text === null) {
+    text = 'HELLO WORLD';
+  }
+
+  if(colors === null) {
+    if(text !== null) {
+      colors = Array.prototype.map.call(text, function() {
         return Math.random() < 0.5 ? 'S' : 'G';
-      }).join('')
-      : 'SSSSS GGGGG'
+      }).join('');
+    } else {
+      colors = 'SSSSS GGGGG';
+    }
+  }
+
+  return {
+    text: text,
+    colors: colors
   }
 };
 
