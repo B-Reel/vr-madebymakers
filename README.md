@@ -1,5 +1,8 @@
 # WebVR Farewell
 
+<img src="https://raw.githubusercontent.com/B-Reel-Barcelona/BRSL_JFARE001/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D" width="500px">
+
+
 Interactive WebVR farewell card ([demo](https://b-reel-barcelona.github.io/BRSL_JFARE001/)).
 
 ## Usage
