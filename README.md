@@ -43,4 +43,5 @@ To break a line, add `\n` in the text.
 ## Notes
 
 - If `colors` is missing, they will be random.
+- Don't forget to add spaces for both spaces and line breaks in `colors` (e.g: for `Hello World\nAgain`, `GGGG SSSSS GGGG`).
 - This isn't case sensitive, so `HELLO`, `hello` or `HeLlO` are the same.
