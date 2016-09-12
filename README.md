@@ -1,6 +1,6 @@
 # WebVR Farewell
 
-Interactive WebVR farewell card.
+Interactive WebVR farewell card ([demo](https://b-reel-barcelona.github.io/BRSL_JFARE001/)).
 
 ## Usage
 
@@ -45,3 +45,8 @@ To break a line, add `\n` in the text.
 - If `colors` is missing, they will be random.
 - Don't forget to add spaces for both spaces and line breaks in `colors` (e.g: for `Hello World\nAgain`, `GGGG SSSSS GGGG`).
 - This isn't case sensitive, so `HELLO`, `hello` or `HeLlO` are the same.
+
+## Cheats
+
+- Pressing `Q` will attract all the letters, and thus complete the game.
+- `Space` will release all the letters.
