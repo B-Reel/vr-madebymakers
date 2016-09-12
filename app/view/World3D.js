@@ -21,6 +21,7 @@ var Shape = require('./shape/Shape');
 
 var random = require('./utils').random;
 var getTextAndColorsFromHash = require('./utils').getTextAndColorsFromHash;
+var sendTextToAnalytics = require('./utils').sendTextToAnalytics;
 
 /**
  * @interface ILetterInfos {
@@ -331,6 +332,8 @@ World3D.prototype.getLettersInfos = function(text, colors, colorsTable) {
 
 World3D.prototype.createLetters = function() {
   var textInfos = getTextAndColorsFromHash();
+
+  sendTextToAnalytics(textInfos.text.replace(/\\N/g, ' '));
 
   var lettersInfos = this.getLettersInfos(
     textInfos.text,

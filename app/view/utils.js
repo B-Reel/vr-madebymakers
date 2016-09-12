@@ -56,10 +56,20 @@ var KeyCodes = {
   SPACE: 32
 };
 
+function sendTextToAnalytics(text) {
+  if(!ga) {
+    return;
+  }
+
+  ga('set', 'dimension1', text);  
+  ga('send', 'pageview');
+}
+
 module.exports = {
   random: random,
   textureLoader: new THREE.TextureLoader(),
   jsonLoader: new THREE.JSONLoader(),
   getTextAndColorsFromHash: getTextAndColorsFromHash,
-  KeyCodes: KeyCodes
+  KeyCodes: KeyCodes,
+  sendTextToAnalytics: sendTextToAnalytics
 };
