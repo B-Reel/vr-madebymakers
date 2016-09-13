@@ -2890,6 +2890,12 @@ function sendTextToAnalytics(text) {
     return;
   }
 
+  ga('send', 'event', {
+    'eventCategory': 'Home',
+    'eventAction': 'start',
+    'eventLabel': text
+  })
+
   ga('set', 'dimension1', text);  
   ga('send', 'pageview');
 }
