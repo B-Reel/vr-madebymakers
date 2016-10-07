@@ -1,9 +1,9 @@
-# VR Physics - a farewell experiment
+# VR Farewell - a b-reel experiment
 
-<img alt="celebrate" src="https://raw.githubusercontent.com/B-Reel/vr-physics/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D" width="500">
+<img alt="celebrate" src="https://raw.githubusercontent.com/B-Reel/vr-farewell/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D" width="500">
 
 
-#### Interactive WebVR farewell card ([demo](https://b-reel.github.io/vr-physics/)).
+#### Interactive WebVR farewell card ([demo](https://b-reel.github.io/vr-farewell/)).
 
 ---
 
