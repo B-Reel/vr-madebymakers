@@ -1,4 +1,4 @@
-# VR Farewell - a b-reel experiment
+# VR Farewell - a B-Reel experiment
 
 <img alt="celebrate" src="https://raw.githubusercontent.com/B-Reel/vr-farewell/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D" width="500">
 
