@@ -1,5 +1,5 @@
 {
-  "name": "farewell_vr",
+  "name": "vr-physics",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "howler": "^2.0.0",
-    "rebound": "0.0.13",    
+    "rebound": "0.0.13",
     "tween.js": "^16.3.4"
   },
   "devDependencies": {

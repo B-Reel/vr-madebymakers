@@ -1,9 +1,9 @@
-# WebVR Farewell
+# VR Physics - a farewell experiment
 
-<img src="https://raw.githubusercontent.com/B-Reel-Barcelona/BRSL_JFARE001/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D" width="500px">
+![](https://raw.githubusercontent.com/B-Reel/vr-physics/gh-pages/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D "Celebrate" =500x )
 
 
-Interactive WebVR farewell card ([demo](https://b-reel-barcelona.github.io/BRSL_JFARE001/)).
+Interactive WebVR farewell card ([demo](https://b-reel.github.io/vr-physics/)).
 
 ## Usage
 
