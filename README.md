@@ -1,6 +1,6 @@
 # VR Physics - a farewell experiment
 
-![](https://raw.githubusercontent.com/B-Reel/vr-physics/gh-pages/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D "Celebrate" =500x )
+![](https://raw.githubusercontent.com/B-Reel/vr-physics/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D "Celebrate" =500x )
 
 
 Interactive WebVR farewell card ([demo](https://b-reel.github.io/vr-physics/)).
