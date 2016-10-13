@@ -1,9 +1,9 @@
-# VR Farewell - a B-Reel experiment
+# VR Made of Makers - a B-Reel experiment
 
-<img alt="celebrate" src="https://raw.githubusercontent.com/B-Reel/vr-farewell/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D" width="500">
+<img alt="celebrate" src="https://raw.githubusercontent.com/B-Reel/vr-madeofmakers/master/gifs/celebrate.gif?token=AGysiehpIAd_ZythOdCWEHgBpfdoqnjwks5X3-YvwA%3D%3D" width="500">
 
 
-#### Interactive WebVR farewell card ([demo](https://b-reel.github.io/vr-farewell/)).
+#### Interactive WebVR experience ([demo](https://b-reel.github.io/vr-madeofmakers/)).
 
 ---
 
